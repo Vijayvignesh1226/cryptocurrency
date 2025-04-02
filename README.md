@@ -1,6 +1,6 @@
 # Cryptoverse - Crypto Currency Page
 
-![Cryptoverse Screenshot](images/screenshot.png)
+
 
 Welcome to Cryptoverse, a web application for tracking and exploring various cryptocurrencies. This project utilizes a variety of technologies and dependencies to provide a user-friendly and interactive experience for users interested in the world of digital currencies.
 
@@ -12,9 +12,6 @@ Welcome to Cryptoverse, a web application for tracking and exploring various cry
 - Redux Integration: State management is handled efficiently with React Redux and the Redux Toolkit.
 - Routing: Smooth navigation is enabled through React Router Dom.
 
-## Deployment
-
-The Cryptoverse application has been successfully deployed and is accessible using the following link: [Cryptoverse Deployment](https://shiny-kulfi-15a9d5.netlify.app/)
 
 ## Dependencies
 
